@@ -1,0 +1,8 @@
+.form-group label {
+  font-weight: bold;
+}
+.date-picker-label {
+  font-weight: bold;
+  font-style: italic;
+  color: blue;
+}
